@@ -1,0 +1,7 @@
+record: sky-remote-cli 192.168.0.10 record
+playpause: sky-remote-cli 192.168.0.10 pause
+bbcone: sky-remote-cli 192.168.0.10 1 0 1
+bbctwo: sky-remote-cli 192.168.0.10 1 0 2
+itv: sky-remote-cli 192.168.0.10 1 0 3
+channel4: sky-remote-cli 192.168.0.10 1 0 4
+sky1: sky-remote-cli 192.168.0.10 1 0 6
