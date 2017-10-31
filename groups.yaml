@@ -1,0 +1,4 @@
+sky:
+  - input_select.channel
+  - script.playpause
+  - script.record
