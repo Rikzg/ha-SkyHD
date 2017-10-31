@@ -2,3 +2,12 @@ sky:
   - input_select.channel
   - script.playpause
   - script.record
+
+## VIEWS ##
+default_view:
+  name: DEFAULT
+  icon: mdi:home
+  view: yes
+  entities:
+    - group.sky
+    
